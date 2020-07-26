@@ -28,7 +28,9 @@ PIL
 seaborn
 sklearn
 
-Referenciass
+Referencias
+
+
 [1] P. N. Kieu, H. S. Tran, T. H. Le, T. Le and T. T. Nguyen, "Applying Multi-CNNs model for detecting abnormal problem on chest x-ray images," 2018 10th International Conference on Knowledge and Systems Engineering (KSE), Ho Chi Minh City, 2018, pp. 300-305, doi: 10.1109/KSE.2018.8573404.
 
 [2] Chest X-Ray Images (Pneumonia) Dataset. https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia. Last downloaded 2016-08-14.
