@@ -1,6 +1,6 @@
 # Neumonia_ML
 
-CHEST-RAY_X Images
+# CHEST-RAY_X Images
 Analisis exhaustivo de una investigacion realizada sobre el dataset Chest-ray-x Images(Pneumonia)[1]. En el cuaderno de python se encuentran modelos de Redes Neuronales Convolucionales y Maquina Soporte Vectorial con una caractarestica diferente respectivamente, que es el uso de PCA, las CNN han sido desarrolladas sobre un preprocesamiento con la tecnica reduccion de dimensiones PCA.
 
 
