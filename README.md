@@ -16,8 +16,6 @@ Requerimientos:
 
 Python 3.7
 
-A copy of the MovieLens 1M dataset, downloaded from [2].
-
 Dependencias
 
 pandas
